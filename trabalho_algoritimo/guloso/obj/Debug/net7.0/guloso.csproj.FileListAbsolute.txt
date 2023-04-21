@@ -1,0 +1,15 @@
+/home/apsis/Área de trabalho/João/Faculdade/3_Semestre/grafos/trabalho_algoritimo/guloso/bin/Debug/net7.0/guloso
+/home/apsis/Área de trabalho/João/Faculdade/3_Semestre/grafos/trabalho_algoritimo/guloso/bin/Debug/net7.0/guloso.deps.json
+/home/apsis/Área de trabalho/João/Faculdade/3_Semestre/grafos/trabalho_algoritimo/guloso/bin/Debug/net7.0/guloso.runtimeconfig.json
+/home/apsis/Área de trabalho/João/Faculdade/3_Semestre/grafos/trabalho_algoritimo/guloso/bin/Debug/net7.0/guloso.dll
+/home/apsis/Área de trabalho/João/Faculdade/3_Semestre/grafos/trabalho_algoritimo/guloso/bin/Debug/net7.0/guloso.pdb
+/home/apsis/Área de trabalho/João/Faculdade/3_Semestre/grafos/trabalho_algoritimo/guloso/obj/Debug/net7.0/guloso.csproj.AssemblyReference.cache
+/home/apsis/Área de trabalho/João/Faculdade/3_Semestre/grafos/trabalho_algoritimo/guloso/obj/Debug/net7.0/guloso.GeneratedMSBuildEditorConfig.editorconfig
+/home/apsis/Área de trabalho/João/Faculdade/3_Semestre/grafos/trabalho_algoritimo/guloso/obj/Debug/net7.0/guloso.AssemblyInfoInputs.cache
+/home/apsis/Área de trabalho/João/Faculdade/3_Semestre/grafos/trabalho_algoritimo/guloso/obj/Debug/net7.0/guloso.AssemblyInfo.cs
+/home/apsis/Área de trabalho/João/Faculdade/3_Semestre/grafos/trabalho_algoritimo/guloso/obj/Debug/net7.0/guloso.csproj.CoreCompileInputs.cache
+/home/apsis/Área de trabalho/João/Faculdade/3_Semestre/grafos/trabalho_algoritimo/guloso/obj/Debug/net7.0/guloso.dll
+/home/apsis/Área de trabalho/João/Faculdade/3_Semestre/grafos/trabalho_algoritimo/guloso/obj/Debug/net7.0/refint/guloso.dll
+/home/apsis/Área de trabalho/João/Faculdade/3_Semestre/grafos/trabalho_algoritimo/guloso/obj/Debug/net7.0/guloso.pdb
+/home/apsis/Área de trabalho/João/Faculdade/3_Semestre/grafos/trabalho_algoritimo/guloso/obj/Debug/net7.0/guloso.genruntimeconfig.cache
+/home/apsis/Área de trabalho/João/Faculdade/3_Semestre/grafos/trabalho_algoritimo/guloso/obj/Debug/net7.0/ref/guloso.dll

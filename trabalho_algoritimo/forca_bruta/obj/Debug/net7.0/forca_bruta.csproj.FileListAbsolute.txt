@@ -1,0 +1,15 @@
+/home/apsis/Área de trabalho/João/Faculdade/3_Semestre/grafos/trabalho_algoritimo/forca_bruta/bin/Debug/net7.0/forca_bruta
+/home/apsis/Área de trabalho/João/Faculdade/3_Semestre/grafos/trabalho_algoritimo/forca_bruta/bin/Debug/net7.0/forca_bruta.deps.json
+/home/apsis/Área de trabalho/João/Faculdade/3_Semestre/grafos/trabalho_algoritimo/forca_bruta/bin/Debug/net7.0/forca_bruta.runtimeconfig.json
+/home/apsis/Área de trabalho/João/Faculdade/3_Semestre/grafos/trabalho_algoritimo/forca_bruta/bin/Debug/net7.0/forca_bruta.dll
+/home/apsis/Área de trabalho/João/Faculdade/3_Semestre/grafos/trabalho_algoritimo/forca_bruta/bin/Debug/net7.0/forca_bruta.pdb
+/home/apsis/Área de trabalho/João/Faculdade/3_Semestre/grafos/trabalho_algoritimo/forca_bruta/obj/Debug/net7.0/forca_bruta.csproj.AssemblyReference.cache
+/home/apsis/Área de trabalho/João/Faculdade/3_Semestre/grafos/trabalho_algoritimo/forca_bruta/obj/Debug/net7.0/forca_bruta.GeneratedMSBuildEditorConfig.editorconfig
+/home/apsis/Área de trabalho/João/Faculdade/3_Semestre/grafos/trabalho_algoritimo/forca_bruta/obj/Debug/net7.0/forca_bruta.AssemblyInfoInputs.cache
+/home/apsis/Área de trabalho/João/Faculdade/3_Semestre/grafos/trabalho_algoritimo/forca_bruta/obj/Debug/net7.0/forca_bruta.AssemblyInfo.cs
+/home/apsis/Área de trabalho/João/Faculdade/3_Semestre/grafos/trabalho_algoritimo/forca_bruta/obj/Debug/net7.0/forca_bruta.csproj.CoreCompileInputs.cache
+/home/apsis/Área de trabalho/João/Faculdade/3_Semestre/grafos/trabalho_algoritimo/forca_bruta/obj/Debug/net7.0/forca_bruta.dll
+/home/apsis/Área de trabalho/João/Faculdade/3_Semestre/grafos/trabalho_algoritimo/forca_bruta/obj/Debug/net7.0/refint/forca_bruta.dll
+/home/apsis/Área de trabalho/João/Faculdade/3_Semestre/grafos/trabalho_algoritimo/forca_bruta/obj/Debug/net7.0/forca_bruta.pdb
+/home/apsis/Área de trabalho/João/Faculdade/3_Semestre/grafos/trabalho_algoritimo/forca_bruta/obj/Debug/net7.0/forca_bruta.genruntimeconfig.cache
+/home/apsis/Área de trabalho/João/Faculdade/3_Semestre/grafos/trabalho_algoritimo/forca_bruta/obj/Debug/net7.0/ref/forca_bruta.dll
